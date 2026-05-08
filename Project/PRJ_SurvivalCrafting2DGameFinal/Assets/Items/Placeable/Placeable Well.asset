@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afc4ea7ad5595b649afda97f7b1c1fcc, type: 3}
+  m_Name: Placeable Well
+  m_EditorClassIdentifier: 
+  id: 41b0ab686ac572b40aab011a898767b3
+  itemName: Well
+  icon: {fileID: -205325812, guid: 3627709889b6e854f8cc39296952323a, type: 3}
+  maximumStacks: 1
+  IsPlaceable: 1
+  _placeables:
+  - {fileID: 11400000, guid: f683720ce180d324cbad35b9e61d8839, type: 2}
+  _placedBench: {fileID: 0}

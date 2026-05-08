@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 242e86f6e45bf164db9aa7a9fdc0dae8, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  id: ed98eb7a980a2f74985fdd944a64ef3f
+  itemName: Apple
+  icon: {fileID: -751443114, guid: 1d9f305d84c6c64488d20523135bff2b, type: 3}
+  maximumStacks: 30
+  IsConsumable: 1
+  Effects:
+  - {fileID: 11400000, guid: 6a38e32ac90d9da4691db64456e39deb, type: 2}

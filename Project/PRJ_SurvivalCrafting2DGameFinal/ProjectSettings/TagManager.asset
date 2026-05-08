@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water
+  - InteractableItem
+  - Bench
+  - Enemy
+  - Map
+  - Roof
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - InteractableItem
+  - Forge
+  - Campfire
+  - Well
+  - Workbench
+  - Bed
+  - Enemy
+  - EnemyChaseRadius
+  - Weather
+  - Map
+  - WaterMap
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Weather
+    uniqueID: 3515337733
+    locked: 0

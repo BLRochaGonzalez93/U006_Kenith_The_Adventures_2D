@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b0baef2a7532c43a6da303ab6c1ea6, type: 3}
+  m_Name: Golden Axe
+  m_EditorClassIdentifier: 
+  materials:
+  - item: {fileID: 11400000, guid: a9cbb92f4d733d14580f3cc445003fe4, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 6fcec413da5eb40438de7f6ed6dc4561, type: 2}
+    amount: 2
+  results:
+  - item: {fileID: 11400000, guid: 617edd98f58393c4e8b8154a67ea6a20, type: 2}
+    amount: 1
