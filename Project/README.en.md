@@ -97,10 +97,6 @@ Highlighted scripts:
 - `LifeStaExpBarsUI`
 - `SimpleTutorial`
 
-More information:
-
-[`Docs/Architecture.md`](./Docs/Architecture.md)
-
 ## Recommended code to review
 
 - [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/PlayerMovement.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/PlayerMovement.cs)
@@ -117,7 +113,7 @@ More information:
 
 The build is available through GitHub Releases.
 
-[`Releases/Download.md`](./Releases/Download.md)
+[`Releases/Download.md`](../Releases/Download.md)
 
 [Download build U006-v1.0.0](https://github.com/BLRochaGonzalez93/U006_Kenith_The_Adventures_2D/releases/tag/U006-v1.0.0)
 
