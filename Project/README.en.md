@@ -4,9 +4,9 @@
 
 ## Summary
 
-**Kenith: The Adventures 2D** is a playable survival/crafting prototype developed in Unity with C#. The player controls Kenith in a 2D top-down experience focused on surviving, gathering resources, fighting enemies and crafting increasingly important and higher-quality items.
+Playable survival/crafting prototype developed in Unity with C#. Kenith is the protagonist of a 2D top-down experience focused on surviving, gathering resources, fighting enemies and bosses, completing quests and crafting progressively better items.
 
-The project combines exploration, gathering, crafting, enemies, bosses, quests, an initial tutorial, documented narrative and progression through levels and stats. Defeat occurs when the player loses all health.
+The project has documented narrative and story, an initial tutorial, health, damage, stats, inventory, crafting, resource gathering, pickups, collectibles, dialogues, UI and a structure designed to expand its content.
 
 ## Technologies
 
@@ -28,60 +28,57 @@ The project combines exploration, gathering, crafting, enemies, bosses, quests, 
 
 ## Main features
 
-- 2D top-down survival/crafting gameplay.
+- 2D top-down survival/crafting.
 - Main protagonist: Kenith.
-- Horizontal movement in a 2D environment.
+- 2D movement and interaction.
 - Melee attack.
 - Ranged attack planned for future versions.
 - Enemies with basic AI.
-- Bosses and special encounters.
+- Bosses.
 - Obstacles and traps.
 - Resource gathering.
 - Pickups and collectibles.
-- Crafting system.
-- Inventory and equipment system.
-- Health and damage system.
-- Level, experience and stats system.
-- Quests and objectives.
+- Item crafting.
+- Inventory and equipment.
+- Health system.
+- Damage system.
+- Levels, experience and stats system.
+- Quests.
 - Initial tutorial.
 - Main menu.
-- Pause system.
-- Particles, sound and music.
-- UI, animations, dialogues and narrative.
+- Pause.
+- Particles.
+- Sound and music.
+- UI.
+- Animations.
+- Dialogues and narrative.
 - Playable Windows build.
 
-## Visuals
+## Screenshots
 
-> Final screenshots and images pending.
+> Final screenshots pending.
 
-Planned visual pack names:
+Planned path:
 
-- `keniththeadventures-logo.png`
-- `keniththeadventures-cover.png`
-- `keniththeadventures-banner.png`
-- `keniththeadventures-thumbnail-01-survival-gameplay.png`
-- `keniththeadventures-thumbnail-02-resource-gathering.png`
-- `keniththeadventures-thumbnail-03-crafting-system.png`
-- `keniththeadventures-thumbnail-04-boss-encounter.png`
+![Gameplay](./Media/screenshots/gameplay-01.png)
 
 ## Architecture
 
-The project organizes its scripts into several functional areas inside `Assets/Scripts`:
+The main logic is organized into several folders inside `Assets/Scripts`:
 
-- **Character Panel** — inventory, equipment, slots, stats and tooltips.
-- **Character Stats** — stat and modifier definitions.
-- **Crafting System** — recipes, crafting windows and crafting UI.
-- **Enemy** — enemies, health, drops, projectiles and health bars.
-- **Interactions** — movement, gathering, weapons, dialogues, tutorials, raycasts and events.
-- **Items** — equippable items, usable items, containers, effects and interactable objects.
-- **UI** — day cycle, health/experience bars and simple tutorial.
+- `Character Panel` — inventory, equipment, slots, stats and character panels.
+- `Character Stats` — stats and modifiers.
+- `Crafting System` — recipes, crafting benches and crafting windows.
+- `Enemy` — enemies, health, drops, projectiles and health bars.
+- `Interactions` — movement, gathering, weapons, dialogues, tutorial, weather and raycasts.
+- `Items` — equippable items, usable items, containers, effects and interaction.
+- `UI` — health bars, experience, day cycle and tutorial.
 
-Highlighted project scripts:
+Highlighted scripts:
 
 - `PlayerMovement`
 - `GatheringGenerator`
 - `Weapon`
-- `WeaponParent`
 - `XP`
 - `EnemyChase`
 - `EnemyHealth`
@@ -100,6 +97,10 @@ Highlighted project scripts:
 - `LifeStaExpBarsUI`
 - `SimpleTutorial`
 
+More information:
+
+[`Docs/Architecture.md`](./Docs/Architecture.md)
+
 ## Recommended code to review
 
 - [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/PlayerMovement.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/PlayerMovement.cs)
@@ -116,13 +117,15 @@ Highlighted project scripts:
 
 The build is available through GitHub Releases.
 
+[`Releases/Download.md`](./Releases/Download.md)
+
 [Download build U006-v1.0.0](https://github.com/BLRochaGonzalez93/U006_Kenith_The_Adventures_2D/releases/tag/U006-v1.0.0)
 
 ## Status
 
 **Playable survival/crafting prototype.**
 
-The project includes a main level with survival, combat, enemies, bosses, gathering, inventory, crafting, stats, health, damage, quests, tutorial, UI, narrative, dialogues, particles, sound and music.
+The project includes survival, combat, enemies, bosses, resource gathering, inventory, crafting, stats, health, damage, experience, quests, tutorial, UI, narrative, dialogues, particles, sound and music.
 
 Possible pending improvements:
 
@@ -142,10 +145,10 @@ Possible pending improvements:
 
 ## Learnings
 
-This project allowed me to work on the design of a top-down survival prototype, combining movement, combat, gathering, progression and crafting systems.
+This project allowed me to work on the design of a top-down survival prototype with connected systems for movement, combat, resources, crafting, inventory, experience and stats.
 
-It also helped me practice 2D movement and interaction, health, damage, experience, stats and inventory systems.
+It also helped me practice 2D interaction, health and damage management, resource gathering, pickups, collectibles and character progression.
 
-In addition, I worked on a crafting and inventory base with recipes, containers, equippable items and usable items.
+In addition, I worked on a crafting and inventory base through recipes, equippable items, usable items, effects and containers.
 
-The project also helped me organize enemies, bosses, quests, narrative, dialogues and tutorial inside a broader and more complex experience than a simple arcade prototype.
+The project also helped me organize enemies, bosses, quests, narrative, dialogues and tutorial, integrating several gameplay systems into one broader experience.
