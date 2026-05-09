@@ -60,7 +60,7 @@ The project has documented narrative and story, an initial tutorial, health, dam
 
 Planned path:
 
-![Gameplay](./Media/screenshots/gameplay-01.png)
+![Gameplay](../Media/screenshots/gameplay-01.png)
 
 ## Architecture
 
@@ -99,21 +99,21 @@ Highlighted scripts:
 
 ## Recommended code to review
 
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/PlayerMovement.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/PlayerMovement.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/GatheringGenerator.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/GatheringGenerator.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting System/CraftingRecipe.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting%20System/CraftingRecipe.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting System/CraftingWindow.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting%20System/CraftingWindow.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character Panel/Inventory.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character%20Panel/Inventory.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character Panel/EquipmentPanel.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character%20Panel/EquipmentPanel.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyChase.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyChase.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyHealth.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyHealth.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/UI/LifeStaExpSystem.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/UI/LifeStaExpSystem.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/PlayerMovement.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/PlayerMovement.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/GatheringGenerator.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/GatheringGenerator.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting System/CraftingRecipe.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting%20System/CraftingRecipe.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting System/CraftingWindow.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting%20System/CraftingWindow.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character Panel/Inventory.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character%20Panel/Inventory.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character Panel/EquipmentPanel.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character%20Panel/EquipmentPanel.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyChase.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyChase.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyHealth.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyHealth.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/UI/LifeStaExpSystem.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/UI/LifeStaExpSystem.cs)
 
 ## Build
 
 The build is available through GitHub Releases.
 
-[`Releases/Download.md`](../Releases/Download.md)
+[`Releases/Download.en.md`](../Releases/Download.en.md)
 
 [Download build U006-v1.0.0](https://github.com/BLRochaGonzalez93/U006_Kenith_The_Adventures_2D/releases/tag/U006-v1.0.0)
 

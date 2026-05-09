@@ -60,7 +60,7 @@ El proyecto tiene una narrativa e historia documentada, un tutorial inicial, sis
 
 Ruta prevista:
 
-![Gameplay](./Media/screenshots/gameplay-01.png)
+![Gameplay](../Media/screenshots/gameplay-01.png)
 
 ## Arquitectura
 
@@ -99,15 +99,15 @@ Scripts destacados:
 
 ## Código recomendado para revisar
 
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/PlayerMovement.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/PlayerMovement.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/GatheringGenerator.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/GatheringGenerator.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting System/CraftingRecipe.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting%20System/CraftingRecipe.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting System/CraftingWindow.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting%20System/CraftingWindow.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character Panel/Inventory.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character%20Panel/Inventory.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character Panel/EquipmentPanel.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character%20Panel/EquipmentPanel.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyChase.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyChase.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyHealth.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyHealth.cs)
-- [`Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/UI/LifeStaExpSystem.cs`](./Project/PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/UI/LifeStaExpSystem.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/PlayerMovement.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/PlayerMovement.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/GatheringGenerator.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Interactions/GatheringGenerator.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting System/CraftingRecipe.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting%20System/CraftingRecipe.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting System/CraftingWindow.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Crafting%20System/CraftingWindow.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character Panel/Inventory.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character%20Panel/Inventory.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character Panel/EquipmentPanel.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Character%20Panel/EquipmentPanel.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyChase.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyChase.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyHealth.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/Enemy/EnemyHealth.cs)
+- [`PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/UI/LifeStaExpSystem.cs`](./PRJ_SurvivalCrafting2DGameFinal/Assets/Scripts/UI/LifeStaExpSystem.cs)
 
 ## Build
 

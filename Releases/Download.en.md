@@ -70,4 +70,4 @@ Playable survival/crafting prototype.
 
 ## Repository
 
-[View project repository](https://github.com/BLRochaGonzalez93/U010_Sokar/U006_Kenith_The_Adventures_2D)
+[View project repository](https://github.com/BLRochaGonzalez93/U006_Kenith_The_Adventures_2D)
